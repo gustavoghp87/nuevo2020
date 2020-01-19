@@ -1,0 +1,101 @@
+.jumbotron {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+ul.navbar.nav {
+    color: green;
+    font-size: 1rem;
+}
+
+.sectionLight {
+   background-color: midnightblue;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.cualquiera {
+    margin-top: 40px;
+}
+
+button.cualquieraBtn {
+    background-color: red;
+    color: white;
+    display: block;
+    margin: auto;
+}
+
+#idespecific {
+    padding: 0px;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.modalFormWrapper {
+    
+}
+
+.imgCenter {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    width: 60%;
+    background: red;
+}
+
+#justif {
+    text-align: justify;
+}
+
+#android {
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+    display: block;
+}
+
+.footerImg {
+    padding: 0px;
+}
+
+.fa {
+    margin: 5px;     /* separa los íconos */
+    padding-left: 9px;
+    padding-right: 9px;
+ }
+
+.fa-facebook-official {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
+
+.socialWrapper {
+    margin: auto;    /*centra verticalmente*/
+}
+
+.centroIconos {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
